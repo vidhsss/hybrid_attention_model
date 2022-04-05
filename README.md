@@ -13,5 +13,5 @@ The results demonstrate the applicability of brain-computer interface using mult
 Open and run the notebook on Colab
 
 
-![alt.text](Engineering(1).png)
-![alt.text](Drawing (1) (1).jpg)
+![alt.text](Model.jpg)
+<!-- ![alt.text](Drawing (1) (1).jpg) -->
