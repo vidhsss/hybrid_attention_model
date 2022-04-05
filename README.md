@@ -6,3 +6,6 @@ The biosignals employed are Functional Near-Infrared Spectroscopy(fNIRS), Eye tr
  
 The model uses convolution and recurrent neural network based multi-modal hybrid attention framework that leverages the contextual information through biosignals data. The proposed approach firstly models each modality through LSTM and Convolution based self attention and then applies bi-modal attention on pairwise modalities and tries to learn the contributing features amongst them.
 The results demonstrate the applicability of brain-computer interface using multimodal biosignals  and  attention networks for quantifying cognitive load in well-validated problem-solving tasks. These quantitative cognitive load metrics could help with the design of domains that require real-time problem solving, such as e-learning, psychometric examinations, military training, and more.
+
+Running instructions
+Open and run the notebook on Colab
