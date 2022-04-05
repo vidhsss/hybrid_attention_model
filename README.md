@@ -10,7 +10,12 @@ The results demonstrate the applicability of brain-computer interface using mult
 # Pipeline
 
 The model uses convolution and recurrent neural network based multi-modal hybrid attention framework that leverages the contextual information through biosignals data. The proposed approach firstly models each modality through LSTM and Convolution based self attention and then applies bi-modal attention on pairwise modalities and tries to learn the contributing features amongst them.
+
+Model : 
+
 ![alt.text](Model.jpg)
+
+Base:
 ![alt.text](Base.jpg)
 # Running instructions
 
